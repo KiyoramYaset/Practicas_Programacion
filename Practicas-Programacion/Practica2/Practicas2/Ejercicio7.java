@@ -6,7 +6,7 @@ public class Ejercicio7 {
 		String name, street, city, country, C_P;
 	
 		
-		name = "Yaset Madrid Rosale";
+		name = "Yaset Madrid Rosales";
 		street = "C.Albadel, Carril Iniestas, 29 Bajo";
 		city = " Murcia,Ajucer";
 		country = "España";
